@@ -1,4 +1,4 @@
-#Crypto Royal bot
+# Crypto Royal bot
 
 In start of 2022 the game Crypto Royal was popular and you could make money in cryptocurrency if you played well.
 
